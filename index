@@ -1,1 +1,43 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu Portifólio</title>
+    <link rel="stylesheet" type="text/css" href="css.css">
+    <style>
+        body{
+            background-color: rgb(141, 30, 30);
+        }
+        .navega{
+            background-color: aqua;
+            height: 200px;
+            width: 200px;
+        }
+    </style>
+</head>
+<body style="height: 100%;">
+    <nav id="navega" >
+    <div>
+    <div>
+        <h1>atilaB.</h1></div>
+    <div>
+    <nav>
+        <ul style="list-style-type: none;">
+        <li>Sobre mim</li>
+        <li>Projetos</li>
+        <li>Conhecimentos</li>
+        <li>Fale comigo</li>
+    </ul>
+    <ul>
+        <li>insta</li>
+        <li>git</li>
+        <li>linked</li>
+        <li>face</li>
+    </ul>
+    </nav>
+</div>
+</div>
+</nav>
+</body>
+</html>
