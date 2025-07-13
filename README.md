@@ -7,6 +7,10 @@
 
 # Portifólio - Átila
 
+<img width="1920" height="971" alt="Image" src="https://github.com/user-attachments/assets/bd513c1d-b21e-4bc0-92df-1acc7459b8b3" />
+
+---
+
 ## 💻 Sobre
 Projeto feito ao intuito de apresentar minha jornada, como um T.I para Internet (Programador).
 
